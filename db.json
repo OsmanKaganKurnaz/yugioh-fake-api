@@ -1,0 +1,34 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "name": "Dark Magician",
+            "starPoint": 7,
+            "type": [
+                "Monster",
+                "Spell",
+                "Trap"
+            ],
+            "description": "The ultimate wizard in terms of attack and defense.",
+            "stats": {
+                "attack": 2500,
+                "defense": 2100
+            }
+        }
+    ],
+    "trainers": [
+        {
+            "id": 1,
+            "name": "some comment",
+            "type": [
+                "Magician",
+                "Blue Eyes Dragon"
+            ],
+            "cardsId": [
+                "Monster-1 in Id'si",
+                "Monster-1 in Id'si",
+                "Monster-1 in Id'si"
+            ]
+        }
+    ]
+}
